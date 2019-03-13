@@ -1,0 +1,19 @@
+.bg-purple{
+    background-color: rgb(92, 14, 72);
+}
+
+.font-white {
+    color: rgba(255, 255, 255, 1);
+}
+
+.bg-home {
+    background-color: rgba(232, 232, 232, 1);
+}
+
+section {
+    padding: 0px ;
+}
+
+header {
+    padding: 25px;
+}
